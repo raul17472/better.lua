@@ -1,7 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("TwixyCheats", "DarkTheme")
-SetTextStyle(Color3.fromRGB(255, 255, 255), 20, Enum.Font.GothamBold)
-
 -----------------------------------------------------
 -- MAIN TAB
 -----------------------------------------------------
